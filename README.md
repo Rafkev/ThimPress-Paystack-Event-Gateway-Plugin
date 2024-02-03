@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-ThimPress Paystack Event Gateway Plugin is a WordPress plugin that integrates the Paystack payment gateway with the ThimPress Events Calendar plugin. It allows users to make payments for event registrations using the Paystack payment gateway.
+ThimPress Paystack Event Gateway Plugin is a WordPress plugin that integrates the Paystack payment gateway with the ThimPress Events Calendar plugin. It allows users to make payments for event registrations using the Paystack gateway.
 
 == Description ==
 
